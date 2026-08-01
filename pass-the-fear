@@ -1,0 +1,60 @@
+{
+  "game_id": "1",
+  "items": [
+    {
+      "id": "hell-pray-reroll",
+      "game_id": "1",
+      "title": "祈愿 (战痕刷新)",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.2.0",
+      "download_url": "",
+      "description": "## 祈愿 (战痕刷新)\n说明文字"
+    },
+    {
+      "id": "treasure-expansion",
+      "game_id": "1",
+      "title": "秘宝格拓展",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.1.0",
+      "download_url": "",
+      "description": "## 秘宝格拓展\n说明文字"
+    },
+    {
+      "id": "breakdown",
+      "game_id": "1",
+      "title": "一键分解",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.3",
+      "download_url": "",
+      "description": "## 一键分解\n说明文字"
+    },
+    {
+      "id": "shop-blacksmith",
+      "game_id": "1",
+      "title": "商店必有锻造商人",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.1",
+      "download_url": "",
+      "description": "## 商店必有锻造商人\n说明文字"
+    },
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "title": "无限锻造",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "description": "## 无限锻造\n说明文字"
+    }
+  ]
+}
