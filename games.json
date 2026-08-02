@@ -1,10 +1,14 @@
-[
-  {
-    "id": "1",
-    "name": "风暴怕死队",
-    "sort": 1,
-    "url": "https://raw.githubusercontent.com/MengXiaSS/Explore/refs/heads/main/pass-the-fear",
-    "group_chat_url": "https://qm.qq.com/q/JXDd4KaoYa",
-    "update_url": "https://qm.qq.com/q/JXDd4KaoYa"
-  }
-]
+{
+  "version": "1.0.2",
+  "download_url": "https://raw.githubusercontent.com/MengXiaSS/Explore/refs/heads/main/releases/Explore-1.0.2.zip",
+  "changelog": "1. 新增应用内版本更新\n2. 优化镜像加载速度\n3. 开放设置与关于页面",
+  "games": [
+    {
+      "id": "1",
+      "name": "风暴怕死队",
+      "sort": 1,
+      "url": "https://raw.githubusercontent.com/MengXiaSS/Explore/refs/heads/main/pass-the-fear",
+      "group_chat_url": "https://qm.qq.com/q/JXDd4KaoYa",
+    }
+  ]
+}
