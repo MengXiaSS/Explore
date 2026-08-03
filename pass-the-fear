@@ -80,7 +80,7 @@
       "config_path": "BepInEx/config/InfiniteForging.ini",
       "visible": 0,
       "description": "## 无限锻造\n说明文字"
-    }
+    },
     {
       "id": "infinite-forging",
       "game_id": "1",
@@ -95,7 +95,7 @@
       "config_path": "BepInEx/config/InfiniteForging.ini",
       "visible": 0,
       "description": "## 无限锻造\n说明文字"
-    }
+    },
     {
       "id": "infinite-forging",
       "game_id": "1",
@@ -110,7 +110,7 @@
       "config_path": "BepInEx/config/InfiniteForging.ini",
       "visible": 0,
       "description": "## 无限锻造\n说明文字"
-    }
+    },
     {
       "id": "infinite-forging",
       "game_id": "1",
@@ -125,7 +125,7 @@
       "config_path": "BepInEx/config/InfiniteForging.ini",
       "visible": 0,
       "description": "## 无限锻造\n说明文字"
-    }
+    },
     {
       "id": "infinite-forging",
       "game_id": "1",
@@ -140,7 +140,7 @@
       "config_path": "BepInEx/config/InfiniteForging.ini",
       "visible": 0,
       "description": "## 无限锻造\n说明文字"
-    }
+    },
     {
       "id": "infinite-forging",
       "game_id": "1",
