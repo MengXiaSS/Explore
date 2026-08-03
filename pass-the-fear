@@ -155,6 +155,51 @@
       "config_path": "BepInEx/config/InfiniteForging.ini",
       "visible": 1,
       "description": "## 无限锻造\n说明文字"
+    },
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 11,
+      "title": "无限锻造6",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 1,
+      "description": "## 无限锻造\n说明文字"
+    },
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 12,
+      "title": "无限锻造7",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 1,
+      "description": "## 无限锻造\n说明文字"
+    },
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 13,
+      "title": "无限锻造8",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 1,
+      "description": "## 无限锻造\n说明文字"
     }
   ]
 }
