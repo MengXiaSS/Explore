@@ -1,16 +1,15 @@
 {
   "game_id": "1",
   "categories": [
-    { "id": "gamemod", "name": "全部MOD", "sort": 1 },
-    { "id": "gameplay", "name": "玩法", "sort": 2 },
-    { "id": "expansion", "name": "拓展", "sort": 3 },
-    { "id": "qos", "name": "便利", "sort": 4 }
+    { "id": "gameplay", "name": "玩法", "sort": 1 },
+    { "id": "expansion", "name": "拓展", "sort": 2 },
+    { "id": "qos", "name": "便利", "sort": 3 }
   ],
   "items": [
     {
       "id": "hell-pray-reroll",
       "game_id": "1",
-      "category_ids": ["gameplay", "gamemod"],
+      "category_ids": ["gameplay", "qos"],
       "sort": 1,
       "title": "祈愿 (战痕刷新)",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifovjkdhk3j31z4140qv5.jpg",
@@ -23,7 +22,7 @@
     {
       "id": "treasure-expansion",
       "game_id": "1",
-      "category_ids": ["gamemod","expansion"],
+      "category_ids": ["expansion"],
       "sort": 1,
       "title": "秘宝格拓展",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg",
@@ -36,7 +35,7 @@
     {
       "id": "breakdown",
       "game_id": "1",
-      "category_ids": ["gamemod","qos"],
+      "category_ids": ["qos"],
       "sort": 1,
       "title": "一键分解",
       "cover": "",
@@ -49,7 +48,7 @@
     {
       "id": "shop-blacksmith",
       "game_id": "1",
-      "category_ids": ["gamemod","qos"],
+      "category_ids": ["qos"],
       "sort": 2,
       "title": "商店必有锻造商人",
       "cover": "",
@@ -62,7 +61,7 @@
     {
       "id": "infinite-forging",
       "game_id": "1",
-      "category_ids": ["gamemod","qos"],
+      "category_ids": ["qos"],
       "sort": 3,
       "title": "无限锻造",
       "cover": "",
