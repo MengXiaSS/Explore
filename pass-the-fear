@@ -18,6 +18,7 @@
       "version": "1.2.0",
       "download_url": "https://github.com/MengXiaSS/Explore/raw/refs/heads/main/%E7%A5%88%E6%84%BF.zip",
       "config_path": "",
+      "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n安装框架及MOD后启动游戏需加载，请耐心等待\n\n功能：开局战痕支持刷新\n对应功能键：**F**  **RT** \n联机模式下推荐主机使用，客机无法稳定生效~"
     },
     {
@@ -32,6 +33,7 @@
       "version": "2.3.0",
       "download_url": "https://wwbhk.lanzoue.com/ifbvP40e7tfa",
       "config_path": "BepInEx/config/TreasureExpansion.ini",
+      "visible": 1,
       "description": "## 秘宝格拓展\n说明文字"
     },
     {
@@ -46,6 +48,7 @@
       "version": "1.0.3",
       "download_url": "",
       "config_path": "BepInEx/config/Breakdown.ini",
+      "visible": 0,
       "description": "## 一键分解\n说明文字"
     },
     {
@@ -60,6 +63,7 @@
       "version": "1.0.1",
       "download_url": "",
       "config_path": "",
+      "visible": 0,
       "description": "## 商店必有锻造商人\n说明文字"
     },
     {
@@ -74,6 +78,7 @@
       "version": "1.0.0",
       "download_url": "",
       "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 0,
       "description": "## 无限锻造\n说明文字"
     }
   ]
