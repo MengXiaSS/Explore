@@ -81,5 +81,80 @@
       "visible": 0,
       "description": "## 无限锻造\n说明文字"
     }
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 6,
+      "title": "无限锻造1",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 0,
+      "description": "## 无限锻造\n说明文字"
+    }
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 7,
+      "title": "无限锻造2",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 0,
+      "description": "## 无限锻造\n说明文字"
+    }
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 8,
+      "title": "无限锻造3",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 0,
+      "description": "## 无限锻造\n说明文字"
+    }
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 9,
+      "title": "无限锻造4",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 0,
+      "description": "## 无限锻造\n说明文字"
+    }
+    {
+      "id": "infinite-forging",
+      "game_id": "1",
+      "category_ids": ["qos"],
+      "order": 10,
+      "title": "无限锻造5",
+      "cover": "",
+      "images": [],
+      "author": "Explore",
+      "version": "1.0.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/InfiniteForging.ini",
+      "visible": 0,
+      "description": "## 无限锻造\n说明文字"
+    }
   ]
 }
