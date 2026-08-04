@@ -7,7 +7,7 @@
   ],
   "items": [
     {
-      "id": "hell-pray-reroll",
+      "id": "games-BepInEx",
       "game_id": "1",
       "category_ids": ["gameplay", "qos"],
       "order": 1,
