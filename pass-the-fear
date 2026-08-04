@@ -111,7 +111,7 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
     },
     {
-      "id": "games-zidingyixueliang",
+      "id": "games-kadunyouhua",
       "game_id": "1",
       "category_ids": ["gameplay"],
       "order": 8,
