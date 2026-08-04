@@ -33,7 +33,7 @@
       "download_url": "https://wwbhk.lanzoue.com/i1MLZ3zr332j",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n安装框架及MOD后启动游戏需加载，请耐心等待\n\n功能：开局战痕支持刷新\n对应功能键：**F** **RT** \n联机模式下推荐主机使用，客机无法稳定生效~"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：开局战痕支持刷新\n对应功能键：**F** **RT** \n联机模式下推荐主机使用，客机无法稳定生效~"
     },
     {
       "id": "treasure-expansion",
@@ -48,7 +48,7 @@
       "download_url": "https://wwbhk.lanzoue.com/ifbvP40e7tfa",
       "config_path": "BepInEx/config/TreasureExpansion.ini",
       "visible": 1,
-      "description": "## 秘宝格拓展\n说明文字"
+      "description":  "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：增加 **2** 个秘宝栏位\n对应功能键：**F** **RT** \n单机/联机均已支持，祝您游戏愉快~"
     },
     {
       "id": "shop-blacksmith",
