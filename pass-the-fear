@@ -71,15 +71,15 @@
       "game_id": "1",
       "category_ids": ["qos"],
       "order": 5,
-      "title": "无限锻造",
+      "title": "塔罗牌刷新",
       "cover": "",
       "images": [],
-      "author": "Explore",
+      "author": "混子哥",
       "version": "1.0.0",
-      "download_url": "",
-      "config_path": "BepInEx/config/InfiniteForging.ini",
-      "visible": 0,
-      "description": "## 无限锻造\n说明文字"
+      "download_url": "https://wwbhk.lanzoue.com/i5ymt40jh7oh",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面按 **Q** 刷新、按 **E** 翻面"
     }
   ]
 }
