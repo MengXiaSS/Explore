@@ -1,15 +1,14 @@
 {
   "game_id": "1",
   "categories": [
-    { "id": "gameplay", "name": "玩法", "order": 1 },
-    { "id": "expansion", "name": "拓展", "order": 2 },
-    { "id": "qos", "name": "便利", "order": 3 }
+    { "id": "gameplay", "name": "体验增强", "order": 1 },
+    { "id": "expansion", "name": "功能拓展", "order": 2 },
   ],
   "items": [
     {
       "id": "games-BepInEx",
       "game_id": "1",
-      "category_ids": ["gameplay", "qos"],
+      "category_ids": ["gameplay", "expansion"],
       "order": 1,
       "title": "BepInEx框架 (必须安装)",
       "cover": "",
@@ -24,7 +23,7 @@
     {
       "id": "hell-pray-reroll",
       "game_id": "1",
-      "category_ids": ["gameplay", "qos"],
+      "category_ids": ["gameplay"],
       "order": 2,
       "title": "祈愿 (战痕刷新)",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifovjkdhk3j31z4140qv5.jpg",
@@ -54,7 +53,7 @@
     {
       "id": "shop-blacksmith",
       "game_id": "1",
-      "category_ids": ["qos"],
+      "category_ids": ["expansion"],
       "order": 4,
       "title": "局内聊天（内测）",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifryjrt6wgj31hb0tzx6q.jpg",
@@ -69,7 +68,7 @@
     {
       "id": "infinite-forging",
       "game_id": "1",
-      "category_ids": ["qos"],
+      "category_ids": ["gameplay"],
       "order": 5,
       "title": "塔罗牌刷新",
       "cover": "",
