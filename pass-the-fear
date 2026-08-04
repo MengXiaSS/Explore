@@ -34,7 +34,7 @@
       "download_url": "https://wwbhk.lanzoue.com/i1MLZ3zr332j",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n安装框架及MOD后启动游戏需加载，请耐心等待\n\n功能：开局战痕支持刷新\n对应功能键：**F**  **RT** \n联机模式下推荐主机使用，客机无法稳定生效~"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n安装框架及MOD后启动游戏需加载，请耐心等待\n\n功能：开局战痕支持刷新\n对应功能键：**F** **RT** \n联机模式下推荐主机使用，客机无法稳定生效~"
     },
     {
       "id": "treasure-expansion",
@@ -60,11 +60,11 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifryjrt6wgj31hb0tzx6q.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifryjrt6wgj31hb0tzx6q.jpg"],
       "author": "混子哥",
-      "version": "1.0.1",
-      "download_url": "https://wwbhk.lanzoue.com/icv4F40jev3c",
+      "version": "1.0.2",
+      "download_url": "https://wwbhk.lanzoue.com/iXT8u40jfudc",
       "config_path": "",
       "visible": 1,
-      "description": "### 局内聊天MOD\n说明文字"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主要支持游戏对局内的聊天交流\n\n使用按键 **Enter** 即可呼出"
     },
     {
       "id": "infinite-forging",
