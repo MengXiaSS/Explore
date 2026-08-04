@@ -109,6 +109,21 @@
       "config_path": "BepInEx/config/local.passthefear.monsterbasemultiplier.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
+    },
+    {
+      "id": "games-zidingyixueliang",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 8,
+      "title": "游戏卡顿优化",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifs52p2z8vj31hc0u0dou.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifs52p2z8vj31hc0u0dou.jpg"],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/ibqvq40kmj0b",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
     }
   ]
 }
