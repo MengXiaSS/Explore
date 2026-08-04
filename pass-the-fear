@@ -93,7 +93,7 @@
       "download_url": "https://wwbhk.lanzoue.com/i0v2g40jr5hi",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n第二个锻造栏位的秘宝可以是任意已拥有的秘宝，相当于**万能辅料**\n最终产物强制按照“第一个秘宝 + 第一个秘宝”的原版禁锻结果生成\n注意：未测试联机功能"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n第二个锻造栏位的秘宝可以是任意已拥有的秘宝，相当于**万能辅料**\n最终产物强制按照“第一个秘宝+第一个秘宝”的原版禁锻结果生成\n注意：未测试联机功能"
     },
     {
       "id": "games-zidingyixueliang",
@@ -108,6 +108,6 @@
       "download_url": "https://wwbhk.lanzoue.com/iE3cX40k7mod",
       "config_path": "BepInEx\config\local.passthefear.monsterbasemultiplier.cfg",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n第二个锻造栏位的秘宝可以是任意已拥有的秘宝，相当于**万能辅料**\n最终产物强制按照“第一个秘宝 + 第一个秘宝”的原版禁锻结果生成\n注意：未测试联机功能"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
   ]
 }
