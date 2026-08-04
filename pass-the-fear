@@ -66,7 +66,7 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主要支持游戏对局内的聊天交流\n\n使用按键 **Enter** 即可呼出\n使用 **Enter** 发送，**Esc** 取消\n消息会在发言玩家头顶显示约5秒"
     },
     {
-      "id": "infinite-forging",
+      "id": "games-taluoshuaxin",
       "game_id": "1",
       "category_ids": ["gameplay"],
       "order": 5,
@@ -81,7 +81,7 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面按 **Q** 刷新、按 **E** 翻面"
     },
     {
-      "id": "infinite-forging",
+      "id": "games-fuduanzaolanwuxianzhi",
       "game_id": "1",
       "category_ids": ["gameplay"],
       "order": 6,
