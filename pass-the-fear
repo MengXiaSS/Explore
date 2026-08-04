@@ -106,7 +106,7 @@
       "author": "Echol",
       "version": "1.0.0",
       "download_url": "https://wwbhk.lanzoue.com/iE3cX40k7mod",
-      "config_path": "BepInEx\config\local.passthefear.monsterbasemultiplier.cfg",
+      "config_path": "BepInEx/config/local.passthefear.monsterbasemultiplier.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
     }
