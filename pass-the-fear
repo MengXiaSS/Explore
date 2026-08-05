@@ -123,7 +123,22 @@
       "download_url": "https://wwbhk.lanzoue.com/ibqvq40kmj0b",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n为防止每帧处理事件过载加上了排队机制，安装即生效"
+    },
+    {
+      "id": "games-guandizhanhenshuaxin",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 9,
+      "title": "关底战痕刷新",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifstqmxdr8j30x90kv4jd.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifstqmxdr8j30x90kv4jd.jpg"],
+      "author": "混子哥",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/i5FL540odcod",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n关底BOSS结束后的战痕选择界面点击 **F** 进行刷新，手柄模式下 Y 按键刷新"
     }
   ]
 }
