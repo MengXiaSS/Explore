@@ -45,10 +45,10 @@
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg"],
       "author": "孟夏十三",
       "version": "2.3.2",
-      "download_url": "https://wwbhk.lanzoue.com/ifbvP40e7tfa",
+      "download_url": "https://wwbhk.lanzoue.com/iFrdB40qf90f",
       "config_path": "BepInEx/config/TreasureExpansion.ini",
       "visible": 1,
-      "description":  "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：增加 **2** 个秘宝栏位\n对应功能键：**F** **RT** \n单机/联机均已支持，祝您游戏愉快~"
+      "description":  "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：增加 **2** 个秘宝栏位\n对应功能键：**F** **RT** \n单机/联机均已支持，祝您游戏愉快~\n\n```\n官方更新导致MOD异常，暂时修复一版可更新测试\n```"
     },
     {
       "id": "shop-blacksmith",
