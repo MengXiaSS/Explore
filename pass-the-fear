@@ -78,7 +78,7 @@
       "download_url": "https://wwbhk.lanzoue.com/iOM7a40osy1c",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面按 **Q** 刷新、按 **E** 翻面"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面按 **Q** 刷新、按 **E** 翻面\n``` 已修复使用史黛拉角色造成MOD异常无法使用的问题 ```"
     },
     {
       "id": "games-fuduanzaolanwuxianzhi",
