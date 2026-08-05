@@ -74,11 +74,11 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifs516rhvoj31hc0u0tez.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifs516rhvoj31hc0u0tez.jpg"],
       "author": "混子哥",
-      "version": "1.0.0",
-      "download_url": "https://wwbhk.lanzoue.com/i5ymt40jh7oh",
+      "version": "1.0.2",
+      "download_url": "https://wwbhk.lanzoue.com/iOM7a40osy1c",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面按 **Q** 刷新、按 **E** 翻面\n玩史黛拉的话第一行请选择给 **三重命运** 加点，否则调用的不是混沌塔罗牌，导致MOD不生效"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面按 **Q** 刷新、按 **E** 翻面"
     },
     {
       "id": "games-fuduanzaolanwuxianzhi",
@@ -138,7 +138,7 @@
       "download_url": "https://wwbhk.lanzoue.com/i5FL540odcod",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n关底BOSS结束后的战痕选择界面点击 **F** 进行刷新，手柄模式下 Y 按键刷新"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n关底BOSS结束后的战痕选择界面点击 **F** 进行刷新，手柄模式下 **Y** 按键刷新"
     }
   ]
 }
