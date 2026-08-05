@@ -25,15 +25,15 @@
       "game_id": "1",
       "category_ids": ["gameplay"],
       "order": 2,
-      "title": "祈愿 (战痕刷新)",
+      "title": "祈愿 (已毕业)",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifovjkdhk3j31z4140qv5.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifovjkdhk3j31z4140qv5.jpg"],
       "author": "孟夏十三",
       "version": "1.6.2",
-      "download_url": "https://wwbhk.lanzoue.com/i1MLZ3zr332j",
+      "download_url": "",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：开局战痕支持刷新\n对应功能键：**F** **RT** \n联机模式下推荐主机使用，客机无法稳定生效~"
+      "description": "### 官方已更新战痕刷新，该MOD完美毕业，后续不再提供该MOD下载链接，感谢大家的使用~\n\n"
     },
     {
       "id": "treasure-expansion",
