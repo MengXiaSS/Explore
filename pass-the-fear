@@ -18,7 +18,7 @@
       "download_url": "https://wwbhk.lanzoue.com/iCqiu3zr338f",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先安装此框架再进MOD的安装，仅安装MOD将无法使用\n在此感谢 **ManlyMarco** 大佬的框架，也感谢参与框架维护的大佬们 [GitHub](https://github.com/BepInEx/BepInEx)"
+      "description": "### 请先安装此框架再进MOD的安装，仅安装MOD将无法使用\n在此感谢**ManlyMarco**大佬的框架，也感谢参与框架维护的大佬们 [GitHub](https://github.com/BepInEx/BepInEx)"
     },
     {
       "id": "hell-pray-reroll",
@@ -168,7 +168,7 @@
       "download_url": "https://wwbhk.lanzoue.com/ipzsb40svwja",
       "config_path": "BepInEx/config/local.passthefear.lootweightrarity.cfg",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n需要修改爆率参与可点击配置按钮进行调整，保存即生效\n\n支持修改游戏内爆率，请谨慎使用\n该MOD会影响游戏难度和体验，仅建议**轻体验**，并不推荐长期使用该MOD"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n支持修改游戏内爆率，请谨慎使用\n需要自定义修改爆率可点击配置按钮进行调整，保存即生效\n\n该MOD会影响游戏难度和体验，仅建议**轻体验**，并不推荐长期使用该MOD"
     }
   ]
 }
