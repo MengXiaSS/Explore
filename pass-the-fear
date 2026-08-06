@@ -214,6 +214,21 @@
       "config_path": "BepInEx/config/local.passthefear.bullettransparency.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n默认武器子弹配件攻击10%（0.1）透明度\n如需自定义修改透明度，可点击**配置**修改数值\n\n**注意：使用该MOD需要在游戏设置内设置为最低特效**"
+    },
+    {
+      "id": "games-shanghaijianxieyasuo",
+      "game_id": "1",
+      "category_ids": ["expansion"],
+      "order": 15,
+      "title": "伤害数值简写",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg"],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/iei7240vb77g",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n唯一功能为简写伤害数值，该MOD安装即生效"
     }
   ]
 }
