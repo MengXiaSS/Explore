@@ -214,7 +214,7 @@
       "download_url": "https://wwbhk.lanzoue.com/iAx4C40v798f",
       "config_path": "BepInEx/config/local.passthefear.bullettransparency.cfg",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n默认武器子弹配件攻击10%（0.1）透明度\n如需自定义修改透明度，可点击**配置**修改数值\n\n**注意：使用该MOD需要在游戏设置内设置为最低特效**"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n默认武器子弹配件攻击10%（0.1）透明度\n如需自定义修改透明度可点击**配置**修改数值，建议从0.3透明度开始尝试\n\n**注意：使用该MOD需要在游戏设置内设置为最低特效**"
     },
     {
       "id": "games-shanghaijianxieyasuo",
