@@ -1,7 +1,7 @@
 {
   "version": "1.0.7",
   "download_url": "https://wwbhk.lanzoue.com/itpIB40sqbaf",
-  "changelog": "1. 新增我的仓库\n2. 新增已安装MOD角标展示\n3. 新增游戏根目录自动检测\n这是一个测试版本，先不要更新",
+  "changelog": "1. 修复更新失败的问题\n\n建议所有人手动更新为1.0.7版本 [下载链接](https://wwbhk.lanzoue.com/itpIB40sqbaf)",
   "games": [
     {
       "id": "1",
