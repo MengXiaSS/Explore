@@ -108,7 +108,7 @@
       "download_url": "https://wwbhk.lanzoue.com/iE3cX40k7mod",
       "config_path": "BepInEx/config/local.passthefear.monsterbasemultiplier.cfg",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n如果作为房主开联机则全体生效\n\n点击 **配置** 按钮，修改数值后保存关闭即可"
     },
     {
       "id": "games-kadunyouhua",
@@ -153,7 +153,7 @@
       "download_url": "https://wwbhk.lanzoue.com/i78MG40sk86h",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n去除所有战痕诅咒Debuff，安装即生效\n亲测去除Debuff后难度骤降，所以建议**轻体验**，并不推荐长期使用该MOD"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n去除所有战痕诅咒Debuff，安装即生效\n联机作为房主可能会导致整个队伍均无Debuff的情况\n\n亲测去除Debuff后难度骤降，所以建议**轻体验**，并不推荐长期使用该MOD"
     },
     {
       "id": "games-baolvxiugai",
@@ -169,6 +169,36 @@
       "config_path": "BepInEx/config/local.passthefear.lootweightrarity.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n支持修改游戏内爆率，请谨慎使用\n需要自定义修改爆率可点击配置按钮进行调整，保存即生效\n\n该MOD会影响游戏难度和体验，仅建议**轻体验**，并不推荐长期使用该MOD"
+    },
+    {
+      "id": "games-wuqiduanzaobichushenhuacitiao",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 12,
+      "title": "武器锻造必出神话词条",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifu2ttm0y9j31x416r7wj.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifu2ttm0y9j31x416r7wj.jpg"],
+      "author": "混子哥",
+      "version": "1.0.1",
+      "download_url": "https://wwbhk.lanzoue.com/iVMv840ts9sj",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n游戏锻造必出神话词条，安装即生效\n单人或联机均可使用，但仅限自己角色生效\n\n该MOD会影响游戏难度和体验，建议**轻体验**"
+    },
+    {
+      "id": "games-direnxueliangzhanshi",
+      "game_id": "1",
+      "category_ids": ["expansion"],
+      "order": 13,
+      "title": "敌人血量显示",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifu2tsc6jij31hc0u0npd.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifu2tsc6jij31hc0u0npd.jpg"],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/ioarZ40ts9pg",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n支持敌人显示具体血量数值，安装即生效"
     }
   ]
 }
