@@ -74,11 +74,11 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifs516rhvoj31hc0u0tez.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifs516rhvoj31hc0u0tez.jpg"],
       "author": "混子哥",
-      "version": "1.0.2",
-      "download_url": "https://wwbhk.lanzoue.com/iOM7a40osy1c",
+      "version": "1.0.3",
+      "download_url": "https://wwbhk.lanzoue.com/iCgv740v6n7c",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面按 **Q** 刷新、按 **E** 翻面\n\n```\n已修复使用史黛拉角色造成MOD异常无法使用的问题\n```"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n塔罗牌界面：\n键盘： **Q** 刷新 **E** 翻面\n手柄： **LB** 刷新 **RB** 翻转\n\n```\n新版本已支持手柄模式\n```"
     },
     {
       "id": "games-fuduanzaolanwuxianzhi",
@@ -100,7 +100,7 @@
       "game_id": "1",
       "category_ids": ["gameplay"],
       "order": 7,
-      "title": "自定义血量",
+      "title": "自定义敌人血量",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifs52p2z8vj31hc0u0dou.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifs52p2z8vj31hc0u0dou.jpg"],
       "author": "Echol",
@@ -199,6 +199,21 @@
       "config_path": "",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n支持敌人显示具体血量数值，安装即生效"
+    },
+    {
+      "id": "games-zidantexiaotouming",
+      "game_id": "1",
+      "category_ids": ["expansion"],
+      "order": 14,
+      "title": "子弹特效透明",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg"],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/iAx4C40v798f",
+      "config_path": "BepInEx/config/local.passthefear.bullettransparency.cfg",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n默认武器子弹配件攻击10%（0.1）透明度\n如需自定义修改透明度，可点击**配置**修改数值\n\n**注意：使用该MOD需要在游戏设置内设置为最低特效**"
     }
   ]
 }
