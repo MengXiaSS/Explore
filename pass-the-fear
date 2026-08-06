@@ -153,7 +153,22 @@
       "download_url": "https://wwbhk.lanzoue.com/i78MG40sk86h",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n去除所有战痕诅咒Debuff，安装即生效\n亲测去除Debuff后难度骤降，所以建议 **轻体验** ，并不推荐长期使用该MOD"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n去除所有战痕诅咒Debuff，安装即生效\n亲测去除Debuff后难度骤降，所以建议**轻体验**，并不推荐长期使用该MOD"
+    },
+    {
+      "id": "games-baolvxiugai",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 11,
+      "title": "爆率修改",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifty0a4dc1j31hc0u0mz0.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifty0a4dc1j31hc0u0mz0.jpg"],
+      "author": "Echol",
+      "version": "1.0.3",
+      "download_url": "https://wwbhk.lanzoue.com/ipzsb40svwja",
+      "config_path": "BepInEx/config/local.passthefear.lootweightrarity.cfg",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n需要修改爆率参与可点击配置按钮进行调整，保存即生效\n\n支持修改游戏内爆率，请谨慎使用\n该MOD会影响游戏难度和体验，仅建议**轻体验**，并不推荐长期使用该MOD"
     }
   ]
 }
