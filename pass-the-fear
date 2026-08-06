@@ -1,8 +1,9 @@
 {
   "game_id": "1",
   "categories": [
-    { "id": "gameplay", "name": "体验增强", "order": 1 },
+    { "id": "gameplay", "name": "玩法增强", "order": 1 },
     { "id": "expansion", "name": "功能拓展", "order": 2 },
+    { "id": "optimize", "name": "体验优化", "order": 3 },
   ],
   "items": [
     {
@@ -113,7 +114,7 @@
     {
       "id": "games-kadunyouhua",
       "game_id": "1",
-      "category_ids": ["gameplay"],
+      "category_ids": ["optimize"],
       "order": 8,
       "title": "游戏卡顿优化",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifs52p2z8vj31hc0u0dou.jpg",
@@ -188,7 +189,7 @@
     {
       "id": "games-direnxueliangzhanshi",
       "game_id": "1",
-      "category_ids": ["expansion"],
+      "category_ids": ["optimize"],
       "order": 13,
       "title": "敌人血量显示",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifu2tsc6jij31hc0u0npd.jpg",
@@ -203,7 +204,7 @@
     {
       "id": "games-zidantexiaotouming",
       "game_id": "1",
-      "category_ids": ["gameplay"],
+      "category_ids": ["optimize"],
       "order": 14,
       "title": "子弹特效透明",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
@@ -218,7 +219,7 @@
     {
       "id": "games-shanghaijianxieyasuo",
       "game_id": "1",
-      "category_ids": ["gameplay"],
+      "category_ids": ["optimize"],
       "order": 15,
       "title": "伤害数值简写",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
