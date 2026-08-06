@@ -203,7 +203,7 @@
     {
       "id": "games-zidantexiaotouming",
       "game_id": "1",
-      "category_ids": ["expansion"],
+      "category_ids": ["gameplay"],
       "order": 14,
       "title": "子弹特效透明",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
@@ -218,7 +218,7 @@
     {
       "id": "games-shanghaijianxieyasuo",
       "game_id": "1",
-      "category_ids": ["expansion"],
+      "category_ids": ["gameplay"],
       "order": 15,
       "title": "伤害数值简写",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
