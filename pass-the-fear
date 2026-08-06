@@ -139,6 +139,21 @@
       "config_path": "",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n关底BOSS结束后的战痕选择界面点击 **F** 进行刷新，手柄模式下 **Y** 按键刷新"
+    },
+    {
+      "id": "games-quchuzhanhenzuzhou",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 10,
+      "title": "去除战痕诅咒",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1iftvwr32f2j31z41404qq.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1iftvwr32f2j31z41404qq.jpg"],
+      "author": "孟夏十三",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/i78MG40sk86h",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n去除所有战痕诅咒Debuff，安装即生效\n亲测去除Debuff后难度骤降，所以建议 **轻体验** ，并不推荐长期使用该MOD"
     }
   ]
 }
