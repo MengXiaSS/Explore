@@ -217,6 +217,21 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n默认武器子弹配件攻击**30%**（0.30）透明度\n如需自定义修改透明度可点击**配置**修改数值，保存即生效**注意：使用该MOD需要在游戏设置内设置为最低特效**"
     },
     {
+      "id": "games-jiesuojinsetuzhuang",
+      "game_id": "1",
+      "category_ids": ["optimize"],
+      "order": 15,
+      "title": "解锁金色涂装",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifwmzfheqij31ar0u343m.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifwmzfheqij31ar0u343m.jpg"],
+      "author": "混子哥",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/i10lN418x40b",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n提供金色涂装的解锁，避免为了刷金色涂装的反复鏖战"
+    },
+    {
       "id": "hell-pray-reroll",
       "game_id": "1",
       "category_ids": ["gameplay"],
