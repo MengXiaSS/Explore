@@ -32,9 +32,9 @@
       "author": "孟夏十三",
       "version": "1.1.1",
       "download_url": "https://wwbhk.lanzoue.com/iLNDV419ln2b",
-      "config_path": "",
+      "config_path": "BepInEx\config\MischievousBoss.ini",
       "visible": 1,
-      "description": "### 请先安装此框架再进MOD的安装，仅安装MOD将无法使用\n为增加游戏可玩性及相对强度提升，这次为大家带来了**调皮的BOSS**玩法MOD\n\n\nMOD安装即生效，会在游玩过程中随机出现并生成BOSS角色\n也就是说你接下来的游戏，每个房间都有可能有BOSS出没哦\n击败BOSS也有随机的奖励可以获得，或许会是有用的呢？\n\n联机为开房主机会正常生效，客机不生效\n\n```\n如有BUG请在群内反馈，我会尽快处理\n```"
+      "description": "### 请先安装此框架再进MOD的安装，仅安装MOD将无法使用\n为增加游戏可玩性及相对强度提升，这次为大家带来了**调皮的BOSS**玩法MOD\n\n\nMOD安装即生效，会在游玩过程中随机出现并生成BOSS角色\n也就是说你接下来的游戏，每个房间都有可能有BOSS出没哦\n击败BOSS也有随机的奖励可以获得，或许会是有用的呢？\n\nv1.1.1版本增加了血量配置，如果觉得有难度可点击**配置**按钮适当下调\n\n联机为开房主机会正常生效，客机不生效\n\n```\n如有BUG请在群内反馈，我会尽快处理\n```"
     },
     {
       "id": "treasure-expansion",
