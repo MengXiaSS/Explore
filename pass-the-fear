@@ -247,6 +247,21 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n房间总人数上限，主机MOD\n\n推荐至多 4-8 人，允许范围 2-32；修改后需要重启游戏"
     },
     {
+      "id": "games-bosschengshuang",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 17,
+      "title": "BOSS成双",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifxmbrue2vj31hc0u04b3.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifxmbrue2vj31hc0u04b3.jpg"],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/iXcpE41e8grg",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n房间总人数上限，主机MOD\nBOSS房双倍BOSS，有一定难度\n\n主机MOD，第一章火鸟和第二章节无双倍BOSS"
+    },
+    {
       "id": "hell-pray-reroll",
       "game_id": "1",
       "category_ids": ["gameplay"],
