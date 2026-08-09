@@ -240,8 +240,8 @@
       "cover": "",
       "images": [""],
       "author": "混子哥",
-      "version": "1.0.0",
-      "download_url": "https://wwbhk.lanzoue.com/iNmuL41dwhjc",
+      "version": "1.0.1",
+      "download_url": "https://wwbhk.lanzoue.com/ijChP41fwhje",
       "config_path": "BepInEx/config/MorePlayersHost.ini",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n房间总人数上限，主机MOD\n\n推荐至多 4-8 人，允许范围 2-32；修改后需要重启游戏"
