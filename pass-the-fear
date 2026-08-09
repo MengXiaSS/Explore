@@ -169,7 +169,7 @@
       "download_url": "https://wwbhk.lanzoue.com/iOyK741fflsf",
       "config_path": "BepInEx/config/local.passthefear.lootweightrarity.cfg",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n支持修改游戏内爆率，请谨慎使用\n需要自定义修改爆率可点击配置按钮进行调整，保存即生效\n\n该MOD会影响游戏难度和体验，仅建议**轻体验**，并不推荐长期使用该MOD"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n支持修改游戏内爆率，请谨慎使用\n需要自定义修改爆率可点击配置按钮进行调整，保存即生效\n该MOD配置改对应末尾数字，数字越高权重越高（当前为游戏初始爆率）\n\n该MOD会影响游戏难度和体验，仅建议**轻体验**，并不推荐长期使用"
     },
     {
       "id": "games-wuqiduanzaobichushenhuacitiao",
