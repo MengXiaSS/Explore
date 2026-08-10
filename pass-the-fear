@@ -236,7 +236,7 @@
       "game_id": "1",
       "category_ids": ["expansion"],
       "order": 16,
-      "title": "联机人数拓展",
+      "title": "联机人数拓展（内测）",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifz1buth3zj31yo182k4s.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifz1buth3zj31yo182k4s.jpg"],
       "author": "混子哥",
@@ -320,6 +320,21 @@
       "config_path": "BepInEx/config/ChaosScarFilter.txt",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，支持自定义设置战痕池，安装即生效\n默认已有一套设置，你也可以点击**配置**按钮进行完全自定义"
+    },
+    {
+      "id": "jinwuxianliu",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 22,
+      "title": "禁用无限流秘宝",
+      "cover": "",
+      "images": [""],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/iVRml41o8bnc",
+      "config_path": "BepInEx/config/local.passthefear.relicblacklist.cfg",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n禁用无限流秘宝，安装即生效"
     },
     {
       "id": "hell-pray-reroll",
