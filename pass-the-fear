@@ -262,7 +262,7 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n房间总人数上限，主机MOD\nBOSS房双倍BOSS，有一定难度\n\n主机MOD，第一章火鸟和第二章节无双倍BOSS"
     },
     {
-      "id": "guaiwuzengqiang",
+      "id": "nanduzengqiang",
       "game_id": "1",
       "category_ids": ["gameplay"],
       "order": 18,
