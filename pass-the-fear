@@ -367,6 +367,21 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n支持自选战痕，安装即生效\n\n1、开始新的一局，打开战痕选择界面，MOD 的祝福自选面板会先出现\n2、从祝福列表中选择正好3项祝福,点击顺序就是3个战痕的顺序\n3、点击“锁定并返回官方界面”，在游戏界面点击一次“刷新战痕”\n4、刷新完成后，选择的3项祝福会按顺序写入并锁定\n5、关闭本次战痕界面后，下次打开时会自动清空上次的三个选择，可以再次自选"
     },
     {
+      "id": "games-houqikadunyouhua",
+      "game_id": "1",
+      "category_ids": ["optimize"],
+      "order": 25,
+      "title": "后期卡顿优化",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifs52p2z8vj31hc0u0dou.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifs52p2z8vj31hc0u0dou.jpg"],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/iIKYp41xogqf",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n为防止每帧处理事件过载加上了排队机制，安装即生效"
+    },
+    {
       "id": "hell-pray-reroll",
       "game_id": "1",
       "category_ids": ["gameplay"],
