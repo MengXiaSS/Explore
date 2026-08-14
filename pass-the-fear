@@ -210,8 +210,8 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg"],
       "author": "Echol",
-      "version": "1.0.2",
-      "download_url": "https://wwbhk.lanzoue.com/iEMnr40vo3xg",
+      "version": "1.0.3",
+      "download_url": "https://wwbhk.lanzoue.com/iB2kD42azc3c",
       "config_path": "BepInEx/config/local.passthefear.bullettransparency.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n默认武器子弹配件攻击**30%**（0.30）透明度\n如需自定义修改透明度可点击**配置**修改数值，保存即生效**注意：使用该MOD需要在游戏设置内设置为最低特效**"
@@ -375,8 +375,8 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ig2f4goj47j31hc0u0ac9.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ig2f4goj47j31hc0u0ac9.jpg"],
       "author": "Echol",
-      "version": "1.0.0",
-      "download_url": "https://wwbhk.lanzoue.com/isskk420kubi",
+      "version": "1.0.1",
+      "download_url": "https://wwbhk.lanzoue.com/iJIF242azc6f",
       "config_path": "",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n秘宝指定生成在背包中，联机模式下主机客机均可使用\n安装及生效，进入游戏后按F4呼出菜单"
