@@ -49,7 +49,7 @@
       "download_url": "https://wwbhk.lanzoue.com/i80Bd40r483c",
       "config_path": "BepInEx/config/TreasureExpansion.ini",
       "visible": 1,
-      "description":  "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：增加 **2** 个秘宝栏位\n对应功能键：**F** **RT** \n单机/联机均已支持，祝您游戏愉快~\n\n```\n官方更新导致MOD异常，暂时修复一版可更新测试\n```"
+      "description":  "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：增加 **2** 个秘宝栏位\n单机/联机均已支持，祝您游戏愉快~\n\n```\n官方更新导致MOD异常，暂时修复一版可更新测试\n```"
     },
     {
       "id": "shop-blacksmith",
