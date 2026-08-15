@@ -397,6 +397,21 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\nBOSS将得到一定加强，可通过**配置**设置BOSS免伤百分比和BOSS无敌时间等"
     },
     {
+      "id": "mibaogemax",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 27,
+      "title": "秘宝格拓展Max",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg"],
+      "author": "孟夏十三",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/iyLtg42icq4h",
+      "config_path": "BepInEx/config/TreasureExpansion.ini",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机客机均可使用，安装及生效\n应部分玩家需求增加秘宝格至24格，严重影响游戏体验不建议随意使用\n键盘：**Q** 切换秘宝格页面\n手柄：*操控杆左右**切换秘宝格页面\n![MOD演示](https://setu.iw233.top/large/008AU2ujgy1ig4mmetbdrg30v209s1ky.jpg)"
+    },
+    {
       "id": "hell-pray-reroll",
       "game_id": "1",
       "category_ids": ["gameplay"],
