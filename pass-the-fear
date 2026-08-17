@@ -442,6 +442,21 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n1、仅敌人的移动速度、攻击动作速度、技能冷却统一按倍率加速\n2、默认倍率为 1.5：敌人移动和攻击频率均为原来的 1.5 倍\n3、玩家角色、玩家攻击、玩家动画、玩家召唤物、所有弹幕均不受影响"
     },
     {
+      "id": "zhenshirogue",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 30,
+      "title": "真实Rogue",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ig6xxfeya2j31ag0q5ad1.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ig6xxfeya2j31ag0q5ad1.jpg"],
+      "author": "孟夏十三",
+      "version": "1.2.0",
+      "download_url": "https://wwbhk.lanzoue.com/iehbi42x5kfa",
+      "config_path": "BepInEx/config/RoomWeaponReroll.ini",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n如MOD名称一般，真实且更加疯狂的Rogue玩法\n**一败涂地**还是**天胡**？？？开一局试试吧先！\n\n支持自定义，可根据自身需求更改配置文件"
+    },
+    {
       "id": "hell-pray-reroll",
       "game_id": "1",
       "category_ids": ["gameplay"],
