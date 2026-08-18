@@ -361,7 +361,7 @@
       "images": [""],
       "author": "满堂客",
       "version": "1.0.0",
-      "download_url": "https://wwbhk.lanzoue.com/iFNHo41ur2sd",
+      "download_url": "https://wwbhk.lanzoue.com/iseOz435o6xg",
       "config_path": "",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n支持自选战痕，安装即生效\n1、开始新的一局，打开战痕选择界面，MOD 的祝福自选面板会先出现\n2、从祝福列表中选择正好3项祝福,点击顺序就是3个战痕的顺序\n3、点击“锁定并返回官方界面”，在游戏界面点击一次“刷新战痕”\n4、刷新完成后，选择的3项祝福会按顺序写入并锁定\n5、关闭本次战痕界面后，下次打开时会自动清空上次的三个选择，可以再次自选"
@@ -455,6 +455,21 @@
       "config_path": "BepInEx/config/RoomWeaponReroll.ini",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n如MOD名称一般，真实且更加疯狂的Rogue玩法\n**一败涂地**还是**天胡**？？？开一局试试吧先！\n\n支持自定义，可根据自身需求更改配置文件"
+    },
+    {
+      "id": "jinengkadunyouhua",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 31,
+      "title": "无限技能卡顿优化",
+      "cover": "",
+      "images": [""],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/i6qFl435o6ve",
+      "config_path": "BepInEx/config/local.passthefear.performanceguard.cfg",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n使用需要建议将游戏特效调整为最低效果明显\n针对雷凯无限触发技能优化，推荐配合子弹特效透明MOD使用\n\n注意：\n1、无法解决菜刀配件和一些武器弹道导致的卡顿\n2、无法解决珍妮开挂点满技能点的无限技能导致的卡顿"
     },
     {
       "id": "hell-pray-reroll",
