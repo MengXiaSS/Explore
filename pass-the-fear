@@ -210,8 +210,8 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifuayxr9q9j31hc0u0nb3.jpg"],
       "author": "Echol",
-      "version": "1.0.3",
-      "download_url": "https://wwbhk.lanzoue.com/iB2kD42azc3c",
+      "version": "1.0.4",
+      "download_url": "https://wwbhk.lanzoue.com/iTekW43gby1a",
       "config_path": "BepInEx/config/local.passthefear.bullettransparency.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n默认武器子弹配件攻击**30%**（0.30）透明度\n如需自定义修改透明度可点击**配置**修改数值，保存即生效**注意：使用该MOD需要在游戏设置内设置为最低特效**"
@@ -470,6 +470,21 @@
       "config_path": "BepInEx/config/local.passthefear.performanceguard.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n使用需要建议将游戏特效调整为最低效果明显\n针对雷凯无限触发技能优化，推荐配合子弹特效透明MOD使用\n\n注意：\n1、无法解决菜刀配件和一些武器弹道导致的卡顿\n2、无法解决珍妮开挂点满技能点的无限技能导致的卡顿"
+    },
+    {
+      "id": "xunliancaidanjiesuo",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 32,
+      "title": "训练图鉴限制解除",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ig9lm8p4u1j3206150467.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ig9lm8p4u1j3206150467.jpg"],
+      "author": "Echol",
+      "version": "1.0.0",
+      "download_url": "https://wwbhk.lanzoue.com/iqXCl43gby0j",
+      "config_path": "",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n\n按 **J** 调出训练场的生成图鉴\n按 **k** 调出训练场的训练模板"
     },
     {
       "id": "hell-pray-reroll",
