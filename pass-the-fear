@@ -123,7 +123,7 @@
       "version": "1.0.0",
       "download_url": "https://wwbhk.lanzoue.com/ibqvq40kmj0b",
       "config_path": "",
-      "visible": 1,
+      "visible": 0,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n为防止每帧处理事件过载加上了排队机制，安装即生效"
     },
     {
@@ -476,7 +476,7 @@
       "game_id": "1",
       "category_ids": ["gameplay"],
       "order": 31,
-      "title": "无限技能卡顿优化",
+      "title": "游戏卡顿优化",
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ig887fiv8xj31r715utfm.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ig887fiv8xj31r715utfm.jpg"],
       "author": "Echol",
