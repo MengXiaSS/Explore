@@ -451,10 +451,25 @@
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ig6xxfeya2j31ag0q5ad1.jpg"],
       "author": "孟夏十三",
       "version": "1.2.0",
-      "download_url": "https://wwbhk.lanzoue.com/iehbi42x5kfa",
+      "download_url": "",
       "config_path": "BepInEx/config/RoomWeaponReroll.ini",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n如MOD名称一般，真实且更加疯狂的Rogue玩法\n**一败涂地**还是**天胡**？？？开一局试试吧先！\n\n支持自定义，可根据自身需求更改配置文件"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n如MOD名称一般，真实且更加疯狂的Rogue玩法\n**一败涂地**还是**天胡**？？？开一局试试吧先！\n\n支持自定义，可根据自身需求更改配置文件\n\nBUG较多，当前已暂停下载"
+    },
+    {
+      "id": "zhenshirogue",
+      "game_id": "1",
+      "category_ids": ["gameplay"],
+      "order": 30,
+      "title": "真实Rogue",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1ig6xxfeya2j31ag0q5ad1.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1ig6xxfeya2j31ag0q5ad1.jpg"],
+      "author": "孟夏十三",
+      "version": "1.2.0",
+      "download_url": "",
+      "config_path": "BepInEx/config/RoomWeaponReroll.ini",
+      "visible": 1,
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n如MOD名称一般，真实且更加疯狂的Rogue玩法\n**一败涂地**还是**天胡**？？？开一局试试吧先！\n\n支持自定义，可根据自身需求更改配置文件\n\nBUG较多，当前已暂停下载"
     },
     {
       "id": "jinengkadunyouhua",
@@ -472,19 +487,19 @@
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n使用需要建议将游戏特效调整为最低效果明显\n针对雷凯无限触发技能优化，推荐配合子弹特效透明MOD使用\n\n注意：\n1、无法解决菜刀配件和一些武器弹道导致的卡顿\n2、无法解决珍妮开挂点满技能点的无限技能导致的卡顿"
     },
     {
-      "id": "xunliancaidanjiesuo",
+      "id": "jiesuochongwu",
       "game_id": "1",
-      "category_ids": ["gameplay"],
-      "order": 32,
-      "title": "训练图鉴限制解除",
-      "cover": "https://setu.iw233.top/large/008AU2ujgy1ig9lm8p4u1j3206150467.jpg",
-      "images": ["https://setu.iw233.top/large/008AU2ujgy1ig9lm8p4u1j3206150467.jpg"],
+      "category_ids": ["optimize"],
+      "order": 33,
+      "title": "解锁全部宠物",
+      "cover": "https://setu.iw233.top/large/008AU2ujgy1igacx17nqij31s718g7a5.jpg",
+      "images": ["https://setu.iw233.top/large/008AU2ujgy1igacx17nqij31s718g7a5.jpg"],
       "author": "Echol",
       "version": "1.0.0",
-      "download_url": "https://wwbhk.lanzoue.com/iqXCl43gby0j",
+      "download_url": "https://wwbhk.lanzoue.com/iuYNx43mvfkb",
       "config_path": "",
       "visible": 1,
-      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机MOD，安装及生效\n\n按 **J** 调出训练场的生成图鉴\n按 **k** 调出训练场的训练模板"
+      "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n主机客机均可使用，安装及生效\n\n退出游戏进行安装，安装完成重上游戏即可解锁全部宠物"
     },
     {
       "id": "hell-pray-reroll",
