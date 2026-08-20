@@ -45,8 +45,8 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg"],
       "author": "孟夏十三",
-      "version": "2.5.3",
-      "download_url": "https://wwbhk.lanzoue.com/i80Bd40r483c",
+      "version": "2.5.4",
+      "download_url": "https://wwbhk.lanzoue.com/iqUgK43ofnlg",
       "config_path": "BepInEx/config/TreasureExpansion.ini",
       "visible": 1,
       "description":  "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n功能：增加 **2** 个秘宝栏位\n单机/联机均已支持，祝您游戏愉快~\n\n```\n官方更新导致MOD异常，暂时修复一版可更新测试\n```"
@@ -405,8 +405,8 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ifppof3ft2j31z4140qec.jpg"],
       "author": "孟夏十三",
-      "version": "1.0.2",
-      "download_url": "https://wwbhk.lanzoue.com/iHOQN42k0y5g",
+      "version": "1.0.3",
+      "download_url": "https://wwbhk.lanzoue.com/iZUOY43ofnni",
       "config_path": "BepInEx/config/TreasureExpansion.ini",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n应部分玩家需求增加秘宝格至24格，严重影响游戏体验不建议随意使用\n键盘：**Q** 切换秘宝格页面\n手柄：**操控杆左右**切换秘宝格页面\n![MOD演示](https://setu.iw233.top/large/008AU2ujgy1ig4mmetbdrg30v209s1ky.jpg)"
@@ -465,8 +465,8 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ig887fiv8xj31r715utfm.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ig887fiv8xj31r715utfm.jpg"],
       "author": "Echol",
-      "version": "1.0.0",
-      "download_url": "https://wwbhk.lanzoue.com/i6qFl435o6ve",
+      "version": "1.0.1",
+      "download_url": "https://wwbhk.lanzoue.com/iOLdE43og77c",
       "config_path": "BepInEx/config/local.passthefear.performanceguard.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n使用需要建议将游戏特效调整为最低效果明显\n针对雷凯无限触发技能优化，推荐配合子弹特效透明MOD使用\n\n注意：\n1、无法解决菜刀配件和一些武器弹道导致的卡顿\n2、无法解决珍妮开挂点满技能点的无限技能导致的卡顿"
