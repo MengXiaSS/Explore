@@ -465,8 +465,8 @@
       "cover": "https://setu.iw233.top/large/008AU2ujgy1ig887fiv8xj31r715utfm.jpg",
       "images": ["https://setu.iw233.top/large/008AU2ujgy1ig887fiv8xj31r715utfm.jpg"],
       "author": "Echol",
-      "version": "1.0.1",
-      "download_url": "https://wwbhk.lanzoue.com/iOLdE43og77c",
+      "version": "1.0.2",
+      "download_url": "https://wwbhk.lanzoue.com/ivZ8b441to4h",
       "config_path": "BepInEx/config/local.passthefear.performanceguard.cfg",
       "visible": 1,
       "description": "### 请先确保已安装所需框架，仅安装MOD无法使用哦\n\n使用需要建议将游戏特效调整为最低效果明显\n针对雷凯无限触发技能优化，推荐配合子弹特效透明MOD使用\n\n注意：\n1、无法解决菜刀配件和一些武器弹道导致的卡顿\n2、无法解决珍妮开挂点满技能点的无限技能导致的卡顿"
